@@ -81,4 +81,4 @@ The loading screen receives real `loadProgress` events from FiveM and updates th
 - Discord: [discord.gg/BsEhHBTbXw](https://discord.gg/BsEhHBTbXw)
 - Email: [hey@codemeapixel.dev](mailto:hey@codemeapixel.dev)
 - Issues: [github.com/CodeMeAPixel/pxLoadingScreen/issues](https://github.com/CodeMeAPixel/pxLoadingScreen/issues)
-- Docs: [cmap.lol/docs/pxLoadingScreen](https://cmap.lol/docs/pxLoadingScreen)
+- Docs: [cmap.lol/docs/pxLoadingScreen](docs/)
